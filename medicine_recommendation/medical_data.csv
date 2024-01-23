@@ -1,0 +1,242 @@
+Gender,Symptoms,Causes,Disease,Medicine
+Male,"Fever, Cough",Viral Infection,Common Cold,"Ibuprofen, Rest"
+Female,"Headache, Fatigue",Stress,Migraine,Sumatriptan
+Male,Shortness of breath,Pollution,Asthma,Albuterol Inhaler
+Female,"Nausea, Vomiting",Food Poisoning,Gastroenteritis,Oral Rehydration
+Male,Sore Throat,Bacterial Infection,Strep Throat,Penicillin
+Female,"Joint Pain, Fatigue",Rheumatoid Arthritis,Arthritis,NSAIDs
+Male,"Chest Pain, Dizziness",High Blood Pressure,Hypertension,Amlodipine
+Female,"Itching, Redness",Allergies,Allergic Reaction,Antihistamine
+Male,"Abdominal Pain, Bloating",Poor Diet,Indigestion,Antacids
+Female,"Fatigue, Sadness",Depression,Major Depressive,Sertraline
+Male,"Fever, Muscle Aches",Viral Infection,Influenza,Acetaminophen
+Female,"Cough, Sneezing",Cold Weather,Common Cold,"Honey, Rest"
+Male,"Nausea, Dizziness",Motion Sickness,Motion Sickness,Dimenhydrinate
+Female,Shortness of breath,Smoking,Chronic Bronchitis,Inhalers
+Male,"Headache, Blurred Vision",Migraine Triggers,Migraine,Beta-blockers
+Female,"Stomach Pain, Diarrhea",Spicy Food,Gastritis,"Antacids, Rest"
+Male,"Joint Pain, Swelling",Autoimmune Response,Rheumatoid Arthritis,NSAIDs
+Female,"Fever, Sore Throat",Viral Infection,Tonsillitis,"Fluids, Rest"
+Male,"Back Pain, Numbness",Herniated Disc,Sciatica,Pain Relievers
+Female,"Nausea, Vomiting",Pregnancy,Morning Sickness,"Ginger, Vitamin B6"
+Male,"Fatigue, Weakness",Anemia,Iron Deficiency,Iron Supplements
+Female,"Anxiety, Rapid Heartbeat",Stress,Panic Disorder,Cognitive Therapy
+Male,Shortness of breath,Obesity,Sleep Apnea,CPAP Machine
+Female,"Skin Rash, Itching",Allergies,Dermatitis,Topical Steroids
+Male,"Cough, Fever",Viral Infection,Respiratory infection,"Antivirals, Rest"
+Female,"Joint Pain, Fatigue",Osteoarthritis,Arthritis,Pain Relievers
+Male,"Dizziness, Fatigue",Dehydration,Heat Exhaustion,"Hydration, Rest"
+Female,"Headache, Sensitivity",Tension,Tension Headache,"Relaxation, NSAIDs"
+Male,"Abdominal Pain, Bloating O",vereating            ,Indigestion,Antacids
+Female,"Nausea, Cramps",Menstrual Cycle,Menstrual Cramps,Pain Relievers
+Male,"Chest Pain, Shortness of breath",Heart Disease,Coronary ArteryDisease,Nitroglycerin
+Female,"Fatigue, Difficulty breathing",Hypothyroidism,Thyroid Disorder,Levothyroxine
+Male,"Fever, Chills",Infection,Pneumonia,"Antibiotics, Rest"
+Female,"Cough, Shortness of breath",COVID-19 Exposure,COVID-19,"Isolation, Fluids"
+Female,"Itching, Redness",Allergies,Allergic Reaction,Antihistamine
+Male,"Muscle Pain, Fatigue",Overexertion,Muscle Strain,"Rest, Pain Relievers"
+Female,"Nausea, Vomiting",Food Poisoning,Gastroenteritis,Oral Rehydration
+Male,"Headache, Blurred Vision",Eye Strain,Vision Fatigue,"Rest, Eye Exercises"
+Male,"Stomach Pain, Diarrhea",Food Poisoning,Gastroenteritis,"Fluids, Bland Diet"
+Female,"Back Pain, Numbness",Sciatica,Herniated Disc,"Pain Relievers, PT"
+Male,"Fever, Sore Throat",Viral Infection,Tonsillitis,"Fluids, Rest"
+Female,"Fatigue, Weakness",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle"
+Female,"Anxiety, Palpitations",Stress,Anxiety Disorder,"Therapy, Medication"
+Male,"Chest Pain, Shortness of breath",Physical Exertion,Muscle Overuse,"Rest, Stretching"
+Female,"Joint Pain, Swelling",Rheumatoid Arthritis,Arthritis,NSAIDs
+Male,"Nausea, Dizziness",Motion Sickness,Motion Sickness,Dimenhydrinate
+Male,"Fever, Cough",Viral Infection,Common Cold,"Ibuprofen, Rest"
+Female,"Headache, Fatigue",Stress,Migraine,Sumatriptan
+Male,Shortness of breath,Pollution,Asthma,Albuterol Inhaler
+Female,"Nausea, Vomiting",Food Poisoning,Gastroenteritis,Oral Rehydration
+Male,Sore Throat,Bacterial Infection,Strep Throat,Penicillin
+Female,"Joint Pain, Fatigue",Rheumatoid Arthriti,s  Arthritis,NSAIDs
+Male,"Chest Pain, Dizziness",High Blood Pressure,Hypertension,Amlodipine
+Female,"Itching, Redness",Allergies,Allergic Reaction,Antihistamine
+Male,"Abdominal Pain, Bloating",Poor Diet,Indigestion,Antacids
+Female,"Fatigue, Sadness",Depression,Major Depressive Disorder, Sertraline
+Male,"Chest Pain, Shortness of breath",Physical Exertion,Muscle Overuse,"Rest, Stretching"
+Female,"Joint Pain, Swelling",Rheumatoid Arthritis,Arthritis,NSAIDs
+Male,"Nausea, Dizziness",Motion Sickness,Motion Sickness,Dimenhydrinate
+Female,"Fatigue, Weakness",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle"
+Male,"Fever, Chills",Infection,Pneumonia,"Antibiotics, Rest"
+Female,"Cough, Shortness of breat",h  COVID-19 Exposure,COVID-19,"Isolation, Fluids"
+Female,"Itching, Redness",Allergies,Allergic Reacti,on   Antihistamine
+Male,"Muscle Pain, Fatigue",Overexertion,Muscle Strain,"Rest, Pain Relievers"
+Female,"Nausea, Vomiting",Food Poisoning,Gastroenteritis,Oral Rehydration
+Male,"Headache, Blurred Vision",Eye Strain,Vision Fatigue,"Rest, Eye Exercises"
+Male,"Stomach Pain, Diarrhea",Food Poisoning,Gastroenteritis,"Fluids, Bland Diet"
+Female,"Back Pain, Numbness",Sciatica,Herniated Disc,"Pain Relievers, PT"
+Male,"Fever, Sore Throat",Viral Infection,Tonsillitis,"Fluids, Rest"
+Female,"Fatigue, Weakness",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle"
+Female,"Anxiety, Palpitations",Stress,Anxiety Disorder," Therapy, Medication"
+Male,"Chest Pain, Shortness",Physical Exertion,Muscle Overuse,"Rest, Stretching"
+Female,"Joint Pain, Swelling",Rheumatoid Arthritis,Arthritis,NSAIDs
+Male,"Nausea, Dizziness",Motion Sickness,Motion Sickness,Dimenhydrinate
+Female,"Fatigue, Weakness",Chronic Fatigue Syndrome,Chronic Fatigue,"Rest, Lifestyle"
+Male,"Fever, Chills",Infection,Pneumonia,"Antibiotics, Rest"
+Female,"Cough, Shortness of breat",h  COVID-19 Exposure,COVID-19,"Isolation, Fluids"
+Female,"Itching, Redness",Allergies,Allergic Reacti,on   Antihistamine
+Male,"Muscle Pain, Fatigue",Overexertion,Muscle Strain,"Rest, Pain Relievers"
+Female,"Nausea, Vomiting",Food Poisoning,Gastroenteritis,Oral Rehydration
+Male,"Headache, Blurred Vision",Eye Strain,Vision Fatigue,"Rest, Eye Exercises"
+Male,"Stomach Pain, Diarrhea",Food Poisoning,Gastroenteritis,"Fluids, Bland Diet"
+Female,"Back Pain, Numbness",Sciatica,Herniated Disc,"Pain Relievers, PT"
+Male,"Fever, Sore Throat",Viral Infection,Tonsillitis,"Fluids, Rest"
+Female,"Fatigue, Weakness",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle"
+Female,"Anxiety, Palpitations",Stress,Anxiety Disorder," Therapy, Medication"
+Male,"Chest Pain, Shortness of breath",Physical Exertion,Muscle Overuse,"Rest, Stretching"
+Female,"Joint Pain, Swelling",Rheumatoid Arthritis, Arthritis,NSAIDs
+Male,"Nausea, Dizziness",Motion Sickness,Motion Sickness,Dimenhydrinate
+Female,"Fatigue, Weakness",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle"
+Female,"Abdominal Pain, Bloating",Overeating,Indigestion,Antacids
+Male,"Fatigue, Weakness",Anemia,Iron Deficiency,Iron Supplements
+Female," Anxiety, Rapid Heartbeat",Stress,Panic Disorder,Cognitive Therapy
+Male,Shortness of breath,Obesity,Sleep Apnea,CPAP Machine
+Female," Skin Rash, Itching",Allergies,Dermatitis,Topical Steroids
+Male,"Cough, Fever",Viral Infection,RespiratoryInfection,"Antivirals, Rest"
+Female,"Joint Pain, Fatigue",Osteoarthritis,Arthritis,Pain Relievers
+Male,"Dizziness, Fatigue",Dehydration,Heat Exhaustion," Hydration, Rest"
+Female,"Headache, Sensitivity",Tension,Tension Headache,"Relaxation, NSAIDs"
+Male,"Abdominal Pain, Bloating",Overeating,Indigestion,Antacids
+Female,"Nausea, Cramps",Menstrual Cycle,Menstrual Cramps, Pain Relievers
+Male,"Chest Pain, Shortness of breath",Heart Disease,Coronary Artery,"  Nitroglycerin,Aspirin"
+Female,"Fatigue, Difficulty breathing",Hypothyroidism,Thyroid Disorder,  Levothyroxine
+Male,"Fever, Chills",Infection,Pneumonia,"Antibiotics, Rest"
+Femal,"Cough, Shortness of brea",th  COVID-19 Exposure,COVID-19,"Isolation, Fluids"
+Femal,"e Itching, Redness",Allergies,Allergic Reaction, Antihistamine
+Male,"Muscle Pain, Fatigue",Overexertion,Muscle Strain,"Rest, Pain Relievers"
+Femal," Nausea, Vomiting",Food Poisoning,Gastroenteritis,  Oral Rehydration
+Male,"Headache, Blurred Vision",Eye Strain,Vision Fatigue,"Rest, Eye Exercises"
+Male,"Stomach Pain, Diarrhea",Food Poisoning,Gastroenteritis,"  Fluids, Bland Diet"
+Femal," Back Pain, Numbness",Sciatica,Herniated Disc,"Pain Relievers, PT"
+Male,"Fever, Sore Throat",Viral Infection,Tonsillitis,"Fluids, Rest"
+Femal," Fatigue, Weakness",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"  Rest, Lifestyle"
+Femal," Anxiety, Palpitations",Stress,Anxiety Disorder,"Therapy, Medication"
+Male,"Chest Pain, Shortness",Physical Exertion,Muscle Overuse,"Rest, Stretching"
+Femal,"e Joint Pain, Swelling",Rheumatoid Arthrit,is  Arthritis,NSAIDs
+Male,"Nausea, Dizziness",Motion Sickness,Motion Sickness, Dimenhydrinate
+Femal,"e Fatigue, Weakness",Chronic Fatigue,Chronic Fatigue,"Rest, Lifestyle"
+Male,"Fever, Chills",Infection,Pneumonia,"Antibiotics, Rest"
+Femal,"e Cough, Shortness of brea",th  COVID-19 Exposure,COVID-19,"Isolation, Fluids"
+Femal,"e Itching, Redness",Allergies,Allergic Reaction, Antihistamine
+Male,"Muscle Pain, Fatigue",Overexertion,Muscle Strain,"Rest, Pain Relievers"
+Femal,"e Nausea, Vomiting",Food Poisoning,Gastroenteritis,Oral Rehydration
+Male,"Headache, Blurred Vision",Eye Strain,Vision Fatigue,"Rest, Eye Exercises"
+Male,"Stomach Pain, Diarrhea",Food Poisoning,Gastroenteritis,"Fluids, Bland Diet"
+Femal,"e Back Pain, Numbness",Sciatica,Herniated Disc,"Pain Relievers, PT"
+Male,"Fever, Sore Throat",Viral Infection,Tonsillitis,"Fluids, Rest"
+Femal,"e Fatigue, Weakness",Chronic Fatigue,Chronic Fatigue,"Rest, Lifestyle"
+Femal,"e Anxiety, Palpitations",Stress,Anxiety Disorder,"Therapy, Medication"
+Male,"Chest Pain, Shortness",Physical Exertion,Muscle Overuse,"Rest, Stretching"
+Femal,"e Joint Pain, Swelling",Rheumatoid Arthritis, Arthritis,NSAIDs
+Male,"Nausea, Dizziness",Motion Sickness,Motion Sickness, Dimenhydrinate
+Femal,"e Fatigue, Weakness",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome," Rest, Lifestyle"
+Male,"Fever, Chills",Infection,Pneumonia,"Antibiotics, Rest"
+Female,"Sore Throat, Cough",Bacterial Infection,Strep Throat,Penicillin
+Male,"Fatigue, Weakness",Anemia,Iron Deficiency,Iron Supplements
+Female,"Anxiety, Rapid Heartbeat",Stress,Panic Disorder,Cognitive Therapy
+Male,Shortness of breath,Obesity,Sleep Apnea,CPAP Machine
+Female,"Skin Rash, Itching",Allergies,Dermatitis,Topical Steroids
+Male,"Cough, Fever",Viral Infection,Respiratory Infection,"Antivirals, Rest"
+Female,"Joint Pain, Fatigue",Rheumatoid Arthritis,Arthritis,NSAIDs
+Male,"Dizziness, Fatigue",Dehydration,Heat Exhaustion,"Hydration, Rest"
+Female,"Headache, Sensitivity",Tension,Tension Headache,"Relaxation, NSAIDs"
+Male,"Abdominal Pain, Bloating",Overeating,Indigestion,Antacids
+Female,"Nausea, Cramps",Menstrual Cycle,Menstrual Cramps,Pain Relievers
+Male,"Chest Pain, Shortness of breath",Heart Disease,Coronary Artery Disease,"Nitroglycerin,Aspirin"
+Female,"Fatigue, Difficulty breathing",Hypothyroidism,Thyroid Disorder,Levothyroxine
+Male,"Fever, Chills",Infection,Pneumonia,"Antibiotics, Rest"
+Female,"Cough, Shortness of breath", COVID-19 Exposure,COVID-19,"Isolation, Fluids"
+Male,"Itching, Redness",Allergies,Allergic Reaction,Antihistamine
+Female,"Muscle Pain, Fatigue",Overexertion,Muscle Strain,"Rest, Pain Relievers"
+Male,"Nausea, Vomiting",Food Poisoning,Gastroenteritis,Oral Rehydration
+Female,"Headache, Blurred Vision",Eye Strain,Vision Fatigue,"Rest, Eye Exercises"
+Male,"Stomach Pain, Diarrhea",Food Poisoning,Gastroenteritis,"Fluids, Bland Diet"
+Female,"Back Pain, Numbness",Sciatica,Herniated Disc,"Pain Relievers, PT"
+Male,"Fever, Sore Throat",Viral Infection,Tonsillitis,"Fluids, Rest"
+Female,"Fatigue, Weakness",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle"
+Female,"Anxiety, Palpitations",Stress,Anxiety Disorder,"Therapy, Medication"
+Male,"Chest Pain, Shortness of breath",Physical Exertion,Muscle Overuse,"Rest, Stretching"
+Female,"Joint Pain, Swelling",Rheumatoid Arthritis,Arthritis,NSAIDs
+Male,"Nausea, Dizziness",Motion Sickness,Motion Sickness,Dimenhydrinate
+Female,"Fatigue, Weakness",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle"
+Male,"Fever, Chills",Infection,Pneumonia,"Antibiotics, Rest"
+Female,"Cough, Shortness of breath",COVID-19 Exposure,COVID-19,"Isolation, Fluids"
+Female,"Itching, Redness",Allergies,Allergic Reaction,Antihistamine
+Male,"Muscle Pain, Fatigue",Overexertion,Muscle Strain,"Rest, Pain Relievers"
+Female,"Nausea, Vomiting",Food Poisoning,Gastroenteritis,Oral Rehydration
+Male,"Headache, Blurred Vision",Eye Strain,Vision Fatigue,"Rest, Eye Exercises"
+Male,"Stomach Pain, Diarrhea",Food Poisoning,Gastroenteritis,"Fluids, Bland Diet"
+Female,"Back Pain, Numbness",Sciatica,Herniated Disc,"Pain Relievers, PT"
+Male,"Fever, Sore Throat",Viral Infection,Tonsillitis,"Fluids, Rest"
+Female,"Fatigue, Weakness",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle"
+Female,"Anxiety, Palpitations",Stress,Anxiety Disorder,"Therapy, Medication"
+Male,"Chest Pain, Shortness of breath",Physical Exertion,Muscle Overuse,"Rest, Stretching"
+Female,"Joint Pain, Swelling",Rheumatoid Arthritis,Arthritis,NSAIDs
+Male,"Nausea, Dizziness",Motion Sickness,Motion Sickness,Dimenhydrinate
+Female,"Fatigue, Weakness",Chronic Fatigue,Chronic Fatigue,"Rest, Lifestyle"
+Male,"Fever, Chills",Infection,Pneumonia,"Antibiotics, Rest"
+Female,"Sore Throat, Cough",Bacterial Infection,Strep Throat,Penicillin
+Male,"Fatigue, Weakness",Anemia,Iron Deficiency,Iron Supplements
+Female,"Anxiety, Rapid Heartbeat",Stress,Panic Disorder,Cognitive Therapy
+Male,Shortness of breath,Obesity,Sleep Apnea,CPAP Machine
+Female,"Skin Rash, Itching",Allergies,Dermatitis,Topical Steroids
+Male,"Cough, Fever",Viral Infection,Respiratory,"Antivirals, Rest"
+Female,"Joint Pain, Fatigue",Rheumatoid Arthritis,Arthritis,NSAIDs
+Male,"Dizziness, Fatigue",Dehydration,Heat Exhaustion,"Hydration, Rest"
+Female,"Headache, Sensitivity",Tension,Tension Headache,"Relaxation, NSAIDs"
+Male,"Abdominal Pain, Bloating",Overeating,Indigestion,Antacids
+Female,"Nausea, Cramps",Menstrual Cycle,Menstrual Cramps,Pain Relievers
+Male,"Chest Pain, Shortness",Heart Disease,Coronary Artery,Nitroglycerin
+Female,"Fatigue, Difficulty",Hypothyroidism,Thyroid Disorder,Levothyroxine
+Male,"Fever, Chills",Infection,Pneumonia,"Antibiotics, Rest"
+Female,"Cough, Shortness of breat",h COVID-19 Exposure,COVID-19,"Isolation, Fluids"
+Male,"Itching, Redness",Allergies,Allergic Reaction,Antihistamine
+Female,"Muscle Pain, Fatigue",Overexertion,Muscle Strain,"Rest, Pain Relievers"
+Male,"Nausea, Vomiting",Food Poisoning,Gastroenteritis,Oral Rehydration
+Female,"Headache, Blurred Vision",Eye Strain,Vision Fatigue,"Rest, Eye Exercises"
+Male,"Stomach Pain, Diarrhea",Food Poisoning,Gastroenteritis,"Fluids, Bland Diet"
+Female,"Back Pain, Numbness",Sciatica,Herniated Disc,"Pain Relievers, PT"
+Male,"Fever, Sore Throat",Viral Infection,Tonsillitis,"Fluids, Rest"
+Female,"Fatigue, Weakness",Chronic Fatigue,Chronic Fatigue,"Rest, Lifestyle"
+Female,"Anxiety, Palpitations",Stress,Anxiety Disorder,"Therapy, Medication"
+Male,"Chest Pain, Shortness",Physical Exertion,Muscle Overuse,"Rest, Stretching"
+Female,"Joint Pain, Swelling",Rheumatoid Arthritis,Arthritis,NSAIDs
+Male,"Nausea, Dizziness",Motion Sickness,Motion Sickness,Dimenhydrinate
+Female,"Fatigue, Weakness",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle"
+Male,"Fever, Chills",Infection,Pneumonia,"Antibiotics, Rest"
+Female,"Cough, Shortness of breath",COVID-19 Exposure,COVID-19,"Isolation, Fluids"
+Female,"Itching, Redness",Allergies,Allergic Reaction,Antihistamine
+Male,"Muscle Pain, Fatigue",Overexertion,Muscle Strain,"Rest, Pain Relievers"
+Female,"Nausea, Vomiting",Food Poisoning,Gastroenteritis,Oral Rehydration
+Male,"Headache, Blurred Vision",Eye Strain,Vision Fatigue,"Rest, Eye Exercises"
+Male,"Stomach Pain, Diarrhea",Food Poisoning,Gastroenteritis,"Fluids, Bland Diet"
+Female,"Back Pain, Numbness",Sciatica,Herniated Disc,"Pain Relievers, PT"
+Male,"Fever, Sore Throat",Viral Infection,Tonsillitis,"Fluids, Rest"
+Female,"Fatigue, Weakness",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle"
+Female,"Anxiety, Palpitations",Stress,Anxiety Disorder,"Therapy, Medication"
+Male,"Chest Pain, Shortness of breath",Physical Exertion,Muscle Overuse,"Rest, Stretching"
+Female,"Joint Pain, Swelling",Rheumatoid Arthritis,Arthritis,NSAIDs
+Male,"Nausea, Dizziness",Motion Sickness,Motion Sickness,Dimenhydrinate
+Female,"Fatigue, Weakness",Chronic FatigueSyndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle"
+Male,"Fever, Chills",Infection,Pneumonia,"Antibiotics, Rest"
+Female,"Sore Throat, Cough",Bacterial Infection ,Strep Throat     ,Penicillin
+Male,"Fatigue, Weakness",Anemia              ,Iron Deficiency ,Iron Supplements
+Female,"Anxiety, Rapid Heartbeat",Stress              ,Panic Disorder  ,Cognitive Therapy
+Male,Shortness of breath,Obesity             ,Sleep Apnea     ,CPAP Machine
+Female,"Skin Rash, Itching",Allergies           ,Dermatitis      ,Topical Steroids
+Male,"Cough, Fever",Viral Infection     ,Respiratory     AntiInfection,"virals, Rest"
+Female,"Joint Pain, Fatigue",Rheumatoid Arthritis ,Arthritis     ,  NSAIDs
+Male,"Dizziness, Fatigue",Dehydration         ,Heat Exhaustion Hydr,"ation, Rest"
+Female,"Headache, Sensitivity",Tension             ,Tension Headache Rel,"axation, NSAIDs"
+Male,"Abdominal Pain, Bloating",Overeating          ,Indigestion     Anta,cids
+Female,"Nausea, Cramps",Menstrual Cycle    ,Menstrual Cramps Pai,n Relievers
+Male,"Chest Pain, Shortnessof breath",Heart Disease       ,Coronary Artery Disease   ,"Nitroglycerin,Aspirin"
+Female,"Fatigue, Difficulty breathing",Hypothyroidism      ,Disease         , Levothyroxine
+Male,"Fever, Chills",Infection           ,Pneumonia      ," Antibiotics, Rest"
+Female,"Cough, Shortness of breath",COVID-19 Exposure   ,COVID-19      ,"  Isolation, Fluids"
+Male,"Itching, Redness",Allergies           ,Allergic Reaction An,tihistamine
+Female,"Muscle Pain, Fatigue",Overexertion        ,Muscle Strain  ," Rest, Pain Relievers"
+Male,"Nausea, Vomiting",Food Poisoning  ,Muscle Strain  ,Rehydration
+Female,"Headache, Blurred Vision",Eye Strain          ,Muscle Strain  ,Eye Exercises

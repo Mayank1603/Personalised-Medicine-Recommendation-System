@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personalised Medicine Recommendation System</title>
+    <style>
+        .sidebar {
+            width: 65%;
+            height: 100vh;
+            background-color: #f2f2f2;
+            float: right;
+            text-align: center;
+            padding: 10px;
+        }
+        .container {
+            background-color: rgb(202, 216, 113);
+            float: left;
+            text-align: center;
+            width: 30%;
+            height: 100vh;
+            padding: 10px;
+        }
+        .hidden {
+            display: none;
+        }
+        .button-container {
+            height: 380px;
+            margin: 10px 20px 10px 20px;
+            background-color: rgb(98, 185, 175); 
+            border-width: 8px;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.1); 
+        }
+        .l-btn, .r-btn {
+            width: 140px;
+            height: 140px;
+            border-radius: 50%;
+            border: none;
+            background-color: #3498db;
+            color: #fff;
+            font-size: 16px;
+            cursor: pointer;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            margin-left: 120px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .button-container button.r-btn {
+            margin-top: 40px;
+        }
+        .button-container button.l-btn {
+            margin-top: 30px;
+        }
+        .button-container button.l-btn:hover,
+        .button-container button.r-btn:hover {
+            background-color: #2980b9;
+        }
+        .image-container {
+            text-align: center;
+        }
+        .image-container img {
+            width: 170px;
+            height: 170px;
+            border-radius: 80%;
+            margin: 10px;
+            cursor: pointer;
+            transition: transform 0.3s;
+        }
+        .image-container img:hover {
+            transform: scale(1.1);
+        }
+        .Greet{
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 60px;
+        }
+        .left-center{
+            text-align: center;
+            height: auto;
+            width: 500px;
+            margin-left: 0px;
+            border-width: 8px;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: rgb(204, 28, 28);
+            box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h class="Greet"><b>Welcome Back!!!</b></h>
+        <div class="image-container">
+            <input type="radio" name="image" id="image1"
+                value="https://tse1.mm.bing.net/th?id=OIP.cH5_1OqG_N9p8_4gnXRRCgHaKa&pid=Api&P=0&h=180"
+                onclick="selectImage(this)">
+            <label for="image1"><img
+                    src="https://tse1.mm.bing.net/th?id=OIP.cH5_1OqG_N9p8_4gnXRRCgHaKa&pid=Api&P=0&h=180"
+                    alt="Image 1"></label>
+            <input type="radio" name="image" id="image2"
+                value="https://tse1.mm.bing.net/th?id=OIP.JT5Uipq-bb6bf1VhYtRqNgHaEw&pid=Api&P=0&h=180"
+                onclick="selectImage(this)">
+            <label for="image2"><img
+                    src="https://tse1.mm.bing.net/th?id=OIP.JT5Uipq-bb6bf1VhYtRqNgHaEw&pid=Api&P=0&h=180"
+                    alt="Image 2"></label>
+        </div>
+        <div class="button-container">
+        <button type="button" class="l-btn" id="loginButton">Login</button>
+        <button type="button" class="r-btn" id="registrationButton">Registration</button>
+</div>
+<script>
+    loginButton.addEventListener('click', function () {
+        window.open('login.html', 'loginWindow', 'width=400, height=400');
+    });
+
+    registrationButton.addEventListener('click', function () {
+        window.open('registration.html', 'registerWindow', 'width=400, height=400');
+    });
+</script>
+        </div>
+    </div>
+    <div class="sidebar">
+        <h class="Greet">Stay Healthy, Stay Safe!</h>
+        <img src="https://st2.depositphotos.com/1177973/9642/i/950/depositphotos_96428740-stock-photo-collage-of-healthy-lifestyle.jpg"
+            alt="Sidebar Image" style="width: 95%; height: 90vh;">
+    </div>
+</body>
+
+</html>
